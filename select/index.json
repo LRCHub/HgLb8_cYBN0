@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Good Day (Japanese Version)",
+  "base_artist": "IU",
+  "createdAt": "2025-12-16T17:08:55.906635Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Good Day - Japanese Version",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/01_Good_Day_-_Japanese_Version_IU.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Good Day (Japanese Version)",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/02_Good_Day_(Japanese_Version)_IU.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Good Day (Japanese Ver.)",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/03_Good_Day_(Japanese_Ver.)_BTS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "HAVE A GOOD DAY (Japanese Ver.)",
+      "artist": "WINNER",
+      "has_synced": true,
+      "path": "select/04_HAVE_A_GOOD_DAY_(Japanese_Ver.)_WINNER.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Good Day (Japanese Version)",
+      "artist": "IU",
+      "has_synced": false,
+      "path": "select/05_Good_Day_(Japanese_Version)_IU.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Good Day (Japanese Mix)",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/06_Good_Day_(Japanese_Mix)_IU.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Good Day (Japanese Version)",
+      "artist": "[60yp.com分享]",
+      "has_synced": true,
+      "path": "select/07_Good_Day_(Japanese_Version)_[60yp.com分享].lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Good Day (Japanese Version)",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/08_Good_Day_(Japanese_Version)_IU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Good Day (Japanese Version)",
+      "artist": "IU",
+      "has_synced": false,
+      "path": "select/pl_01_Good_Day_(Japanese_Version)_IU.txt"
+    }
+  ]
+}
